@@ -1,0 +1,11 @@
+README.md
+setup.py
+rich/__init__.py
+rich/derivada.py
+rich/janelas.py
+rich/modelo.py
+rich_modelo.egg-info/PKG-INFO
+rich_modelo.egg-info/SOURCES.txt
+rich_modelo.egg-info/dependency_links.txt
+rich_modelo.egg-info/requires.txt
+rich_modelo.egg-info/top_level.txt
